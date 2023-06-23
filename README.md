@@ -1,4 +1,4 @@
-# 01-constructor-injection
+# 01-constructor-injection using SPRING Boot 3 with web and devtools
 
 The demo program works as follows:
 
